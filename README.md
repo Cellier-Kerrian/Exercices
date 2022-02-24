@@ -9,7 +9,7 @@ Vous y retrouverez seulement ma version de l'exercice, sans la correction que le
 
 You can find all the exercises present in different books or online courses that I have been able to do.
 You will only find my version of the exercise, without the correction that the book or the online course offers.
-*You will not find these exercises translated into English.
+*You will not find these exercises translated into English.*
 
 ## • Contacte
 
