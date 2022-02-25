@@ -1,4 +1,4 @@
-# Exercices
+# Exercices en Python | Exercises in Python
 
 ## • Description :
 

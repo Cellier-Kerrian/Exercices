@@ -1,4 +1,4 @@
-# Exercices
+# Exercices | Exercises
 
 ## • Description :
 
