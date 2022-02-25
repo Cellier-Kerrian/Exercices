@@ -5,9 +5,9 @@
 Voici les sources d'où je tire tout ces exercices en Python :
 ###### Livres
 - __"Apprenez à programmer en PYTHON"__ - 3e édition - Vincent Le Goff
-  - ISBN-10 : `2212678711` | Code ISBN-13 : `9782212678710`
+  > ISBN-10 : `2212678711` | Code ISBN-13 : `9782212678710`
 - __"Algorithmique"__ - 3e édition - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
-  - ISBN-10 : `2100545264` | Code ISBN-13 : `9782100545261`
+  > ISBN-10 : `2100545264` | Code ISBN-13 : `9782100545261`
 
 ###### Cours en ligne
 - [Apprenez les bases du langage Python](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python)
@@ -17,9 +17,9 @@ Voici les sources d'où je tire tout ces exercices en Python :
 Here are the sources from which I draw all these exercises in Python:
 ###### Books
 - __"Learn to program in Python"__ - 3rd edition - Vincent Le Goff
-  - ISBN-10 : `2212678711` | Code ISBN-13 : `9782212678710`
+  > ISBN-10 : `2212678711` | Code ISBN-13 : `9782212678710`
 - __"Algorithmic"__ - 3rd edition - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
-  - ISBN-10 : `2100545264` | Code ISBN-13 : `9782100545261`
+  > ISBN-10 : `2100545264` | Code ISBN-13 : `9782100545261`
 
 ###### Online course
 - [Apprenez les bases du langage Python](https://openclassrooms.com/en/courses/6902811-learn-python-basics)
