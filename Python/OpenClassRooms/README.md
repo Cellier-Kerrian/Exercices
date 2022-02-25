@@ -10,7 +10,7 @@ Voici les sources d'où je tire tout ces exercices en Python :
   > ISBN-10 : `2100545264` | Code ISBN-13 : `9782100545261`
 
 ###### Cours en ligne
-- [Apprenez les bases du langage Python](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python)
+- [OpenClassRooms - Apprenez les bases du langage Python](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python)
 
 ---
 
@@ -22,7 +22,7 @@ Here are the sources from which I draw all these exercises in Python:
   > ISBN-10 : `2100545264` | Code ISBN-13 : `9782100545261`
 
 ###### Online course
-- [Apprenez les bases du langage Python](https://openclassrooms.com/en/courses/6902811-learn-python-basics)
+- [OpenClassRooms - Learn the basics of the Python language](https://openclassrooms.com/en/courses/6902811-learn-python-basics)
 
 *You will not find these exercises translated into English, sorry.*
 
